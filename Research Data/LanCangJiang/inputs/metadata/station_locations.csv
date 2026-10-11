@@ -1,4 +1,0 @@
-station_id,station_name,lon,lat,river_order,note
-S1,Lower reservoir,100.3012,22.8546,1,derived from CE-QUAL-W2 centerline 3/4 position
-S2,Mid reservoir,100.2162,23.0123,2,derived from CE-QUAL-W2 centerline 1/2 position
-S3,Upper reservoir,100.0792,23.1808,3,derived from CE-QUAL-W2 centerline 1/4 position

@@ -1,3 +1,0 @@
-station_id,station_name,lon,lat,river_order,note
-S01,Station01,100.0000,23.0000,1,replace_with_real_coordinates
-S02,Station02,100.1000,22.9000,2,replace_with_real_coordinates
